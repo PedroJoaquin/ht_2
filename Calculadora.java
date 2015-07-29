@@ -7,11 +7,11 @@
  *Freddy Jose Ruiz Gatica 14592
  *Boris Cifuentes 14150
  *------------------------------------------------------------------
- *Interface Stack:
+ *Interface Calculadora:
  *Esta clase genérica únicamente contiene los métodos genéricos a implementar en la controladora 
- *de la stack.
+ *de la calculadora.
  * @param <P>: Este parámetro permite establecer el tipo de dato con el que se desea trabajar la 
- * calculadora Stack.
+ * calculadora.
  **/
 
 public interface Calculadora<P> {
